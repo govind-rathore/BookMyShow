@@ -1,5 +1,6 @@
 package com;
 
-enum Genre {
-
+public enum Genre {
+    ACTION, ROMANCE, COMEDY, HORROR;
 }
+

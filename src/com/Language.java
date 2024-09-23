@@ -1,5 +1,6 @@
 package com;
 
-enum Language {
-
+public enum Language {
+    HINDI, ENGLISH;
 }
+
